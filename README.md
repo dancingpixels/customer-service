@@ -11,4 +11,4 @@
 1. De-Escalating Intense Situations
 1. Serve Customers through Chat and Text
 
-![customer-service](/home/healer/1- customer-service-specialist/customer-service.png)
+<img src="customer-service.png" alt="customer-service-certificate">
